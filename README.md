@@ -77,8 +77,6 @@ Creating this dashboard provided hands-on experience with:
 - Add advanced analytics like predictive modeling.
 - Publish the dashboard to Power BI Service for online sharing.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For questions or feedback, please contact:
