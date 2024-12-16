@@ -48,7 +48,7 @@ Market-Mindz-Dashboard/
 
 ## Screenshots
 ### Campaign Performance View
-![Campaign Performance Screenshot](images/campaign-performance.png)
+![Campaign Performance Screenshot](images/campaign-performance.PNG)
 
 ### Buyer Composition View
 ![Buyer Composition Screenshot](images/buyer-composition.png)
