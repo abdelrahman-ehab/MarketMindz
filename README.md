@@ -51,7 +51,7 @@ Market-Mindz-Dashboard/
 ![Campaign Performance Screenshot](images/campaign-performance.PNG)
 
 ### Buyer Composition View
-![Buyer Composition Screenshot](images/buyer-composition.png)
+![Buyer Composition Screenshot](images/buyer-composition.PNG)
 
 ### Customer Drivers
 ![Customer Drivers Screenshot](images/customer-drivers.png)
