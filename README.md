@@ -33,7 +33,7 @@ Follow these steps to explore the dashboard:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/abdelrahman-ehab/MarketMindz]
+   git clone [https://github.com/abdelrahman-ehab/market-mindz-dashboard]
    ```
 2. Open the `MarketMindz.pbix` file in Power BI Desktop.
 
@@ -81,5 +81,5 @@ Creating this dashboard provided hands-on experience with:
 ## Contact
 For questions or feedback, please contact:
 - **Your Name**: [Abdelrahman Ehab](mailto:rahman.ihab1@gmail.com)
-- [GitHub Profile](https://github.com/yourusername)
+- [GitHub Profile](https://github.com/abdelrahman-ehab/))
 
